@@ -34,7 +34,7 @@ matplotlib
 
 The model achieves:
 - Test Accuracy: 96.7% with optimal hyperparameters (lr=0.1, iterations=1000)
-- Perfect accuracy (100%)** with higher learning rate (lr=0.5)
+- Perfect accuracy 100% with higher learning rate (lr=0.5)
 
 # Features
 
